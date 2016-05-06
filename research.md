@@ -29,17 +29,19 @@ Break styles into 5 categories:
 Smart way of naming your CSS classes to give more transparency and meaning to other developers
 
 **Try using**
+`
 .site-search {} /* Block */
 .site-search__field {} /* Element */
 .site-search--full {} /* Modifier */
-
+`
 **Another example**
+`
 .person {}
 .person__hand {}
 .person--female {}
 .person--female__hand {}
 .person__hand--left {}
-
+`
 * Ugly code better than non-maintainable/comprehensible code
 * Knowing when to use BEM and when it isn't necessary
 

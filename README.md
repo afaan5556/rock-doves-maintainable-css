@@ -14,6 +14,5 @@ My goal for this mini-project are to meet or exceed the DBC phase-3 thunder-talk
 * [compass](http://compass-style.org/)
 * [bourbon](http://bourbon.io/)
 * [susy](http://susy.oddbird.net/)
-
-
-
+* [BREAKPOINT](http://breakpoint-sass.com/)
+* [Vertical Rhythm](http://compass-style.org/reference/compass/typography/vertical_rhythm/)
